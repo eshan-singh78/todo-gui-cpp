@@ -62,4 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Eshan Singh](https://github.com/eshan-singh78)
 
-Feel free to replace placeholders with your actual project details, such as the repository URL, author's name, and any other relevant information. This README provides a starting point to introduce your to-do list application to potential users and contributors on GitHub.
+
